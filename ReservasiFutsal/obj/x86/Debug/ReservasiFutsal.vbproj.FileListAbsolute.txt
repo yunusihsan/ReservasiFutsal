@@ -1,0 +1,44 @@
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.exe
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.pdb
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.xml
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Resources.resources
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.vbproj.GenerateResource.Cache
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.exe
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.xml
+c:\users\msi gaming\documents\visual studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.pdb
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Login.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.MenuUtama.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Admin.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Reservasi.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.DataPembokingan.resources
+C:\Users\MSI GAMING\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Lapangan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.exe
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.pdb
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.xml
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Admin.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.DataPembokingan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Lapangan.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Login.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.MenuUtama.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Resources.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Reservasi.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.vbproj.GenerateResource.Cache
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.exe
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.xml
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.pdb
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.exe
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.pdb
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\bin\Debug\ReservasiFutsal.xml
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Admin.resources
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.DataPembokingan.resources
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Lapangan.resources
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Login.resources
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.MenuUtama.resources
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Resources.resources
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.Reservasi.resources
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.vbproj.GenerateResource.Cache
+D:\Coding\Project\Project 2 Reservasi Futsal\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.coba.resources
+C:\Users\win7s\Documents\Visual Studio 2010\Projects\ReservasiFutsal\ReservasiFutsal\obj\x86\Debug\ReservasiFutsal.coba.resources
